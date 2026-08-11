@@ -1,0 +1,13 @@
+{
+  "name": "sipseek",
+  "version": "1.0.0",
+  "description": "Search 1,100+ beverage brands on Sipseek — non-alcoholic, functional, wellness, mocktails, and more — via remote MCP.",
+  "author": {
+    "name": "Sipseek"
+  },
+  "homepage": "https://sipseek.com/for-ai",
+  "repository": "https://github.com/tl-b/sipseek-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["mcp", "beverages", "drinks", "sipseek"],
+  "logo": "logo.png"
+}
