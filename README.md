@@ -26,8 +26,8 @@ Or install this plugin from [cursor.directory](https://cursor.directory) after i
 
 Call `declare_catalog_usage` with `usage_intent`:
 
-- `non_commercial` — free for personal / education / research / non-profit  
-- `commercial` — requires a paid Sipseek license (`hello@sipseek.com`)
+- `non_commercial`: free for personal / education / research / non-profit  
+- `commercial`: requires a paid Sipseek license (`hello@sipseek.com`)
 
 ## Tools
 

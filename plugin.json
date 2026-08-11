@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "sipseek",
   "version": "1.0.0",
-  "description": "Search 1,100+ beverage brands by flavor, caffeine, sugar, or occasion — find drinks, sodas, energy drinks, teas, and coffees.",
+  "description": "Search 1,100+ beverage brands by flavor, caffeine, sugar, or occasion. Find sodas, energy drinks, teas, and coffees.",
   "author": {
     "name": "Sipseek",
     "url": "https://sipseek.com"
