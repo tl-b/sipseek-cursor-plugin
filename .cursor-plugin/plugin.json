@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "description": "Search 1,100+ beverage brands across 115 categories.",
   "author": {
-    "name": "Sipseek"
+    "name": "Sipseek",
+    "email": "hello@sipseek.com",
+    "url": "https://sipseek.com"
   },
   "homepage": "https://sipseek.com/for-ai",
   "repository": "https://github.com/tl-b/sipseek-cursor-plugin",
   "license": "MIT",
   "keywords": ["mcp", "beverages", "drinks", "non-alcoholic", "catalog", "sipseek"],
-  "logo": "logo.png"
+  "logo": "assets/logo.svg"
 }
