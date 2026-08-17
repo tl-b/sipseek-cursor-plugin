@@ -1,7 +1,7 @@
 {
   "name": "sipseek",
-  "version": "1.0.3",
-  "description": "Search 1,100+ beverage brands across 115 categories.",
+  "version": "1.0.4",
+  "description": "Search 1,000+ beverage brands and get relevant drink recommendations.",
   "author": {
     "name": "Sipseek",
     "email": "hello@sipseek.com",
